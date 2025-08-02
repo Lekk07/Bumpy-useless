@@ -2,43 +2,36 @@
 
 
 # [Project Name] 🎯
-
+bumpy player
 
 ## Basic Details
-### Team Name: [Name]
-
-
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+INDIVIDUAL
+- Team Lead: Lekshmi L-LBSITW
 
 ### Project Description
-[2-3 lines about what your project does]
+BumpyPlayer is a motion-powered web app that lets users control their Spotify playback by physically shaking or bumping their phone. It connects to Spotify via OAuth and listens for device motion events to switch between playlists — no touch required! Ideal for hands-free music control during workouts, rides, or just for fun.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+switching playlist can be hard sometimes.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+shake the phone to switch playlists.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- html
+-css
+- js
+- apis
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+vscode
+git
+
 
 # Run
 [commands]
@@ -47,37 +40,15 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![main ui]](image-1.png)
+s
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
@@ -87,10 +58,6 @@ For Hardware:
 # Additional Demos
 [Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
